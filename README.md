@@ -4,20 +4,20 @@ My name is James Newman. I am 17 years old from the UK, currently studying Compu
 
 
 ## **Projects im currently working on!**
-> Sneaker bot frameworks
-> Stock monitors for a wide range of sites
-> TLS clients
+- Sneaker bot frameworks
+- Stock monitors for a wide range of sites
+- TLS clients
 
 
 ## **Projects I have worked on**
-> VeVe automation
-> Sneaker bots
-> TLS clients
-> Stock monitors for sneaker sites
+- VeVe automation
+- Sneaker bots
+- TLS clients
+- Stock monitors for sneaker sites
 
 ## **Get in touch**
-> Discord - JN#2687
-> Twitter - @ReflexxDev
+- Discord - JN#2687
+- Twitter - @ReflexxDev
 
 
 
