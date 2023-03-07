@@ -11,6 +11,7 @@ My name is James, a 17-year-old UK resident, currently pursuing a degree in Comp
 
 ## **Previous Projects**
 - VeVe/NFT bots (MotionAIO)
+- Captcha solving API
 - Sneaker bots
 - TLS clients
 - Stock monitors for sneaker sites
