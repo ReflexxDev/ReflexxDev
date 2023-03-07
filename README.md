@@ -10,7 +10,7 @@ My name is James Newman. I am 17 years old from the UK, currently studying Compu
 
 
 ## **Projects I have worked on**
-- VeVe automation
+- VeVe/NFT bots
 - Sneaker bots
 - TLS clients
 - Stock monitors for sneaker sites
