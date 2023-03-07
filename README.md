@@ -1,6 +1,6 @@
 # **Hi there, welcome to my Github** 👋
 
-Hey there, my name is James. I am 17 years old from the UK, currently studying Computer science with Cyber security. I specilize in automation technoligies and have worked on varias projects within that field
+My name is James, a 17-year-old UK resident, currently pursuing a degree in Computer Science with a specialization in Cybersecurity. My forte lies in automation technologies, and I have been involved in numerous projects within this domain.
 
 
 ## **Projects i'm currently working on**
