@@ -3,14 +3,14 @@
 My name is James, a 17-year-old UK resident, currently pursuing a degree in Computer Science with a specialization in Cybersecurity. My forte lies in automation technologies, and I have been involved in numerous projects within this domain.
 
 
-## **Projects i'm currently working on**
+## **Current Projects**
 - Sneaker bot frameworks
 - Stock monitors for a wide range of sites
 - TLS clients
 
 
-## **Projects I have worked on**
-- VeVe/NFT bots
+## **Previous Projects**
+- VeVe/NFT bots (MotionAIO)
 - Sneaker bots
 - TLS clients
 - Stock monitors for sneaker sites
