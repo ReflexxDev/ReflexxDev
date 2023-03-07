@@ -1,16 +1,23 @@
-### Hi there my name is Reflexx 👋
+# **Hi there, welcome to my Github** 👋
 
-<!--
-**ReflexxDev/ReflexxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is James Newman. I am 17 years old from the UK, currently studying Computer science with Cyber security. I specilize in automation technoligies and have worked on varias projects within that field
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Projects im currently working on!**
+> Sneaker bot frameworks
+> Stock monitors for a wide range of sites
+> TLS clients
+
+
+## **Projects I have worked on**
+> VeVe automation
+> Sneaker bots
+> TLS clients
+> Stock monitors for sneaker sites
+
+## **Get in touch**
+> Discord - JN#2687
+> Twitter - @ReflexxDev
+
+
+
